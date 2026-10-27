@@ -1,1 +1,1 @@
-{"server": "http://omv-tnt-server.tail5c21cf.ts.net:3000/"}
+{"server": "http://omv-tnt-server.tail5c21cf.ts.net:3000/", "fallback": "http://100.121.146.118:3000/"}
